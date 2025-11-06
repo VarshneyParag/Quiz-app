@@ -1,10 +1,6 @@
 Playful Quiz - Interactive Learning Platform 🎯
 A feature-rich, interactive quiz application built with HTML, CSS, and JavaScript that makes learning fun and engaging!
 
-🚀 Live Demo
-https://img.shields.io/badge/Live-Demo-brightgreen
-https://img.shields.io/badge/GitHub-Pages-blue
-
 ✨ Features
 🎮 Core Quiz Functionality
 600+ Questions across 12 diverse categories
